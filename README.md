@@ -16,8 +16,8 @@
   - [⭐️ Show your support ](#️-show-your-support-)
   - [📝 License ](#-license-)
 
-# Reviewer-hello-microverse
-A project buld during the Microverse program.
+# Hello Microverse
+A project built during the Microverse program.
 
 ## 🛠 Built With <a name="built-with"></a>
 
